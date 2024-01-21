@@ -1,0 +1,9 @@
+[16,21,11,8,12,22] merge sort
+
+iziyi ikiye böl: [16,21,11,8] ve [12,22]
+Her alt diziyi ikiye böl: [16,21] ve [11,8] ve [12] ve [22]
+Her alt diziyi kendi içinde sırala: [16,21] ve [8,11] ve [12] ve [22]
+Sıralı alt dizileri birleştir: [8,11,16,21] ve [12,22]
+Sıralı alt dizileri birleştir: [8,11,12,16,21,22]
+
+Big-O  O(n log n) 'dir
